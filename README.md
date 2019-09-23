@@ -1,3 +1,3 @@
 # Dillan-Hoyos
-This my public for life repository that is public
+This my private repository
 email: dillanhoyosmusic@gmail.com
