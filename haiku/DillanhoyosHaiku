@@ -1,8 +1,0 @@
-
-  #include <stdio.h>
-  int main()
-  {printf(" A summer river\n\a", /*this*\);
-  printf("being crossed\n\a",/*is*\ );
-  printf("how pleasing with sandals in my hands!\n\a",/*my project*\ );
-  }
-  /*DillanHoyoshaiku*\
