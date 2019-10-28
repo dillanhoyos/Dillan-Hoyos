@@ -1,0 +1,7 @@
+for ( y = 1; y < 9; y++){
+for ( x = 1; x < 9; x++) if(y % 2==0)console.log('#');
+else console.log(' '); console.log('\n');
+	for ( y = 1; y < 9; y++){
+for ( x = 1; x < 9; x++)if(y % 2==0)console.log(' '); else console.log('#');
+console.log('\n');}}
+                         
